@@ -22,6 +22,10 @@
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
+    NSLog(@"dfasdlkfhaksljdfhlsdhflaksjfg");
+    NSLog(@"dfasdlkfhaksljdfhlsdhflaksjfg");
+    NSLog(@"dfasdlkfhaksljdfhlsdhflaksjfg");
+
     // Dispose of any resources that can be recreated.
 }
 
